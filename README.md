@@ -34,7 +34,7 @@ I am passionate about **software development, cybersecurity, and cloud solutions
 - **About Me** – Education and career interests  
 - **Projects** – Internship and academic projects  
 - **Skills** – Programming languages, tools, technologies  
-- **Resume** – [Download my Resume](./Resume.pdf)  
+- **Resume** – [Download my Resume](./resume.pdf)  
 - **Contact** – Email, LinkedIn, GitHub  
 
 ---
