@@ -29,14 +29,6 @@ I am passionate about **software development, cybersecurity, and cloud solutions
 
 ---
 
-## 🌐 Preview
-Here’s a quick look at my portfolio website:  
-
-![Portfolio Screenshot](./preview.png)  
-*(Take a screenshot of your portfolio, save it as `preview.png` in the repo, and it will show up here)*
-
----
-
 ## 📂 Sections in Portfolio
 - **Home** – Introduction and tagline  
 - **About Me** – Education and career interests  
